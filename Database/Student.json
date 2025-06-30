@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "roll": "101",
+    "class": "10th",
+    "marks": 92
+  },
+  {
+    "name": "Isha Verma",
+    "roll": "102",
+    "class": "10th",
+    "marks": 88
+  },
+  {
+    "name": "Rahul Singh",
+    "roll": "103",
+    "class": "9th",
+    "marks": 76
+  },
+  {
+    "name": "Simran Kaur",
+    "roll": "104",
+    "class": "11th",
+    "marks": 81
+  },
+  {
+    "name": "Yuvraj Chauhan",
+    "roll": "105",
+    "class": "12th",
+    "marks": 95
+  },
+  {
+    "name": "Ananya Mishra",
+    "roll": "106",
+    "class": "9th",
+    "marks": 67
+  },
+  {
+    "name": "Kabir Joshi",
+    "roll": "107",
+    "class": "11th",
+    "marks": 72
+  },
+  {
+    "name": "Meera Desai",
+    "roll": "108",
+    "class": "10th",
+    "marks": 89
+  },
+  {
+    "name": "Ayaan Qureshi",
+    "roll": "109",
+    "class": "12th",
+    "marks": 78
+  },
+  {
+    "name": "Riya Kapoor",
+    "roll": "110",
+    "class": "9th",
+    "marks": 85
+  }
+]
