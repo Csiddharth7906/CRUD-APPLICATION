@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import "tailwindcss/theme";
+
+@theme {
+  --color-pink-rose: #ffc0cb;
+  --color-lavender: #c7b9ff;
+  --color-blush: #f7d6e6;
+  --color-champagne: #f9e6c8;
+  --color-deep-rose: #e86b91;
+  --color-soft-gold: #f5d27a;
+  --color-midnight: #0f1020;
+  --color-glass: rgba(255, 255, 255, 0.08);
+}
+
+@utility glass-card {
+  @apply backdrop-blur-md bg-white/10 border border-white/20 shadow-xl rounded-3xl;
+}
+
+@layer base {
+  html, body, #root { height: 100%; }
+  body {
+    @apply antialiased text-white bg-gradient-to-b from-[#0e0f1f] via-[#1a1031] to-[#2a1447];
+    background-attachment: fixed;
+  }
+}
